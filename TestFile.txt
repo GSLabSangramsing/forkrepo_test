@@ -1,8 +1,6 @@
 => Test file created for testing the fork repo feature of github.
 => Edited by forked branch.
 => Added this line in a base repository.
-<<<<<<< HEAD
 =>> Added this line again in a base repository for merge test.
-=======
 =>>> Added this line in a forked repository.
->>>>>>> Modified file in forked repo to test merge conflicts
+
